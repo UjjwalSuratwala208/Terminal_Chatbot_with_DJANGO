@@ -1,0 +1,16 @@
+{
+  "name": "Assignment_3_Django_Chatterbot",
+  "version": "1.0.1",
+  "description": "A Qu&A terminal chatbot built with Django + ChatterBot",
+  "python": "3.7 and above recommended",
+  "entrypoint": "python manage.py chat_app_terminal",
+  "created": "2025-09-27",
+  "author": "Ujjwal Suratwala",
+  "files": [
+    "manage.py",
+    "chater_bot/settings.py",
+    "Chat_app/management/commands/chat_app_terminal.py",
+    "requirements.txt",
+    "README.md"
+  ]
+}

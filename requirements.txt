@@ -1,0 +1,8 @@
+Django
+chatterbot
+chatterbot-corpus
+SQLAlchemy
+pint
+python-dateutil
+spacy
+pyyaml
