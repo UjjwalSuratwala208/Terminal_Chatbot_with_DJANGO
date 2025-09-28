@@ -56,7 +56,11 @@ Terminal_Chatbot_With_DJANGO/
 │  └─ wsgi.py
 └─ Chat_app/
    ├─ __init__.py
-   ├─ apps.py
+   ├─ admin.py
+   ├─ apps.py   
+   ├─ models.py
+   ├─tests.py
+   ├─ views.py
    └─ management/
       └─ commands/
          └─ chat_app_terminal.py
