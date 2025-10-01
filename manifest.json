@@ -1,5 +1,5 @@
 {
-  "name": "Assignment_3_Django_Chatterbot",
+  "name": "Terminal__Django_Chatterbot",
   "version": "1.0.1",
   "description": "A Qu&A terminal chatbot built with Django + ChatterBot",
   "python": "3.7 and above recommended",
